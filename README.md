@@ -1,3 +1,3 @@
-Hello! My name is Grace and I am currently a high school senior studying in Canada.
-I enjoy coding and have a bit of experience with Python and Java. 
-I am planning on pursuing a post-secondary education in computer science or computer engineering! 
+Hello! My name is Grace and I am currently a first-year computer engineering student.
+I enjoy coding and have a bit of experience with Python, Java, and C++. 
+
