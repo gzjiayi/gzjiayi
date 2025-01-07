@@ -6,6 +6,7 @@ I'm a third-year **Computer Engineering student** at the **University of Waterlo
 - 🥑 Building [Nomories](https://github.com/gzjiayi/social-food-journal), a social food journal web app  
 - 💻 Learning the ins and outs of full-stack development  
 - 👥 Open to collaboration and new opportunities to learn
+- 🌟 Currently seeking 2025 internships
   
 ##
 
