@@ -3,10 +3,9 @@ I'm a third-year **Computer Engineering student** at the **University of Waterlo
 
 ### 🌟 About Me
 - 📖 Always excited to learn and grow in the field of software development  
-- 🥑 Building Nomories, a social food journal web app  
-- 💻 Learning the ins and outs of full-stack development  
+- 💻 Learning the ins and outs of software development  
 - 👥 Open to collaboration and new opportunities to learn
-- 🌟 Currently seeking 2025 internships
+- 🌟 Currently seeking Winter 2026 internships
   
 ##
 
