@@ -4,7 +4,6 @@ I'm a fourth-year **Computer Engineering student** at the **University of Waterl
 ### 🌟 About Me
 - 📖 Always excited to learn and grow in the field of software development  
 - 💻 Learning the ins and outs of software development
-- 🎶 Building **[Overlayfy](https://github.com/gzjiayi/overlayfy)** – a Spotify lyrics overlay desktop app
 - 👥 Open to collaboration and new opportunities to learn
 - 🌟 Currently seeking Fall 2026 internships
   
